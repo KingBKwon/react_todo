@@ -16,7 +16,7 @@ function App() {
     },
     {
         id:2,
-        text: "Django",
+        text: "Flask",
         checked: false
     },
 ])
